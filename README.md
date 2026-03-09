@@ -24,9 +24,12 @@ Assurez-vous d'avoir un fichier texte nommé `fichier.txt` à la racine du proje
 Exécutez le script pour créer l'identité cryptographique des deux parties :
 ```bash
 python generate_key.py
+```
 - ### 3. Phase d'expédition (côté Alice)
 ```bash
 python alice.py
+```
 - ### 4. Phase de reception (côté bob)
 ```bash
 python bob.py
+```
