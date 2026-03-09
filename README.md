@@ -33,3 +33,20 @@ python alice.py
 ```bash
 python bob.py
 ```
+
+## Résultat 
+Génération des clés de alice et bob 
+### 1. Execution de generate_key.py
+- ### Clés d'alice
+<img width="282" height="110" alt="image" src="https://github.com/user-attachments/assets/a74d3021-d0fe-45ca-9af1-c63384d79726" />
+
+- ### clés de bob
+<img width="324" height="106" alt="image" src="https://github.com/user-attachments/assets/495fca91-ffd9-4c75-a84d-63bb6fea253a" />
+
+### 2. Méssage crypté
+<img width="349" height="96" alt="image" src="https://github.com/user-attachments/assets/d4f17c2e-b2ac-4e7b-81e8-c4cfa0ac6221" />
+<img width="1215" height="157" alt="image" src="https://github.com/user-attachments/assets/6941fc63-a68d-4e6c-86ad-fd4ce7337b95" />
+
+
+
+
